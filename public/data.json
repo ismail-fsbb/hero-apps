@@ -1,0 +1,398 @@
+[
+    {
+        "image": "/demo-app-1.webp",
+        "title": "TaskFlow",
+        "companyName": "Flow Labs",
+        "id": 1,
+        "description": "TaskFlow is a powerful productivity application designed to help users organize their daily tasks and long-term goals in a clear and structured way. With an intuitive interface, users can easily create to-do lists, set priorities, and track progress across personal and professional projects.\n\nThe app focuses on reducing mental clutter by centralizing all tasks in one place. Smart reminders, progress insights, and flexible categorization help users stay consistent, motivated, and in control of their schedules, making TaskFlow ideal for individuals and teams alike.",
+        "size": 42,
+        "reviews": 18,
+        "ratingAvg": 4.6,
+        "downloads": 5,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 45
+            },
+            {
+                "name": "2 star",
+                "count": 70
+            },
+            {
+                "name": "3 star",
+                "count": 210
+            },
+            {
+                "name": "4 star",
+                "count": 640
+            },
+            {
+                "name": "5 star",
+                "count": 875
+            }
+        ]
+    },
+    {
+        "image": "/demo-app-2.webp",
+        "title": "FitTrack",
+        "companyName": "Healthify Inc.",
+        "id": 2,
+        "description": "FitTrack is a comprehensive health and fitness companion that allows users to monitor workouts, calorie intake, and overall wellness in one unified dashboard. Whether tracking daily steps or logging gym sessions, the app offers detailed insights to support an active lifestyle.\n\nBy combining fitness data with easy-to-read analytics, FitTrack helps users understand their habits and make informed health decisions. Personalized goals, progress charts, and health reminders encourage consistency and long-term fitness success.",
+        "size": 55,
+        "reviews": 29,
+        "ratingAvg": 4.4,
+        "downloads": 4,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 90
+            },
+            {
+                "name": "2 star",
+                "count": 140
+            },
+            {
+                "name": "3 star",
+                "count": 420
+            },
+            {
+                "name": "4 star",
+                "count": 980
+            },
+            {
+                "name": "5 star",
+                "count": 1330
+            }
+        ]
+    },
+    {
+        "image": "/demo-app-3.webp",
+        "title": "NoteScape",
+        "companyName": "Paperless Co.",
+        "id": 3,
+        "description": "NoteScape is a lightweight and fast note-taking application built for users who value simplicity and speed. It allows seamless creation, editing, and organization of notes without distractions, making it ideal for students, professionals, and creatives.\n\nWith cloud synchronization, notes remain accessible across multiple devices at all times. The clean design and reliable performance ensure that ideas are captured instantly and securely, helping users stay productive wherever inspiration strikes.",
+        "size": 28,
+        "reviews": 112,
+        "ratingAvg": 4.7,
+        "downloads": 2,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 20
+            },
+            {
+                "name": "2 star",
+                "count": 35
+            },
+            {
+                "name": "3 star",
+                "count": 120
+            },
+            {
+                "name": "4 star",
+                "count": 360
+            },
+            {
+                "name": "5 star",
+                "count": 585
+            }
+        ]
+    },
+    {
+        "image": "/demo-app-4.webp",
+        "title": "MoneyMate",
+        "companyName": "FinEdge",
+        "id": 4,
+        "description": "MoneyMate is a personal finance management app that helps users track expenses, income, and savings with clarity. By categorizing transactions automatically, it provides a clear overview of spending habits and financial health.\n\nThe app empowers users to set budgets and financial goals while offering insights that encourage smarter money decisions. With simple visual reports and consistent tracking, MoneyMate makes managing finances less stressful and more effective.",
+        "size": 60,
+        "reviews": 210,
+        "ratingAvg": 4.3,
+        "downloads": 6,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 110
+            },
+            {
+                "name": "2 star",
+                "count": 190
+            },
+            {
+                "name": "3 star",
+                "count": 460
+            },
+            {
+                "name": "4 star",
+                "count": 720
+            },
+            {
+                "name": "5 star",
+                "count": 620
+            }
+        ]
+    },
+    {
+        "image": "/demo-app-5.webp",
+        "title": "Weatherly",
+        "companyName": "SkyNet Apps",
+        "id": 5,
+        "description": "Weatherly delivers accurate and up-to-date weather forecasts to help users plan their day with confidence. The app provides real-time updates, temperature trends, and detailed forecasts for multiple locations.\n\nWith timely alerts for severe weather conditions, Weatherly ensures users stay prepared and safe. Its clean interface and reliable data make it a trusted companion for daily planning and travel decisions.",
+        "size": 35,
+        "reviews": 80,
+        "ratingAvg": 4.5,
+        "downloads": 8,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 30
+            },
+            {
+                "name": "2 star",
+                "count": 55
+            },
+            {
+                "name": "3 star",
+                "count": 160
+            },
+            {
+                "name": "4 star",
+                "count": 310
+            },
+            {
+                "name": "5 star",
+                "count": 425
+            }
+        ]
+    },
+    {
+        "image": "/demo-app-6.webp",
+        "title": "Learnly",
+        "companyName": "EduSpark",
+        "id": 6,
+        "description": "Learnly is an online learning platform offering bite-sized courses designed for modern learners. It enables users to gain new skills efficiently through structured lessons that fit into busy schedules.\n\nThe platform emphasizes accessibility and engagement, making learning both flexible and enjoyable. With progress tracking and diverse course topics, Learnly supports continuous personal and professional growth.",
+        "size": 75,
+        "reviews": 340,
+        "ratingAvg": 4.8,
+        "downloads": 3,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 40
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 210
+            },
+            {
+                "name": "4 star",
+                "count": 890
+            },
+            {
+                "name": "5 star",
+                "count": 2250
+            }
+        ]
+    },
+    {
+        "image": "/demo-app-7.jpg",
+        "title": "Travelio",
+        "companyName": "Wander Tech",
+        "id": 7,
+        "description": "Travelio is a travel planning app that helps users organize trips, discover destinations, and manage itineraries effortlessly. It centralizes bookings, schedules, and travel notes in one convenient place.\n\nThe app enhances the travel experience by offering inspiration and practical tools for smoother journeys. Whether planning a weekend getaway or a long vacation, Travelio simplifies every step of the process.",
+        "size": 68,
+        "reviews": 10,
+        "ratingAvg": 4.2,
+        "downloads": 7,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 95
+            },
+            {
+                "name": "2 star",
+                "count": 150
+            },
+            {
+                "name": "3 star",
+                "count": 390
+            },
+            {
+                "name": "4 star",
+                "count": 560
+            },
+            {
+                "name": "5 star",
+                "count": 455
+            }
+        ]
+    },
+    {
+        "image": "/demo-app-8.jpg",
+        "title": "ChatWave",
+        "companyName": "Connectify",
+        "id": 8,
+        "description": "ChatWave is a fast and secure messaging platform that supports text, voice, and video communication. Designed for reliability, it enables seamless conversations across devices and networks.\n\nWith a focus on privacy and performance, ChatWave ensures smooth connections even in high-traffic scenarios. It is well-suited for both personal communication and professional collaboration.",
+        "size": 80,
+        "reviews": 52,
+        "ratingAvg": 4.1,
+        "downloads": 12,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 420
+            },
+            {
+                "name": "2 star",
+                "count": 610
+            },
+            {
+                "name": "3 star",
+                "count": 1200
+            },
+            {
+                "name": "4 star",
+                "count": 1650
+            },
+            {
+                "name": "5 star",
+                "count": 1320
+            }
+        ]
+    },
+    {
+        "image": "/demo-app-9.webp",
+        "title": "PhotoForge",
+        "companyName": "PixelWorks",
+        "id": 9,
+        "description": "PhotoForge is an advanced photo editing application that combines professional tools with AI-powered enhancements. Users can easily retouch images, adjust colors, and apply creative effects.\n\nThe app is designed for both casual users and photography enthusiasts who want high-quality results without complexity. Smart features and a modern interface make editing fast, precise, and enjoyable.",
+        "size": 95,
+        "reviews": 40,
+        "ratingAvg": 4.6,
+        "downloads": 32,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 130
+            },
+            {
+                "name": "2 star",
+                "count": 210
+            },
+            {
+                "name": "3 star",
+                "count": 540
+            },
+            {
+                "name": "4 star",
+                "count": 1250
+            },
+            {
+                "name": "5 star",
+                "count": 1970
+            }
+        ]
+    },
+    {
+        "image": "/demo-app-10.jpg",
+        "title": "MusicBox",
+        "companyName": "SoundSphere",
+        "id": 10,
+        "description": "MusicBox is a music streaming platform that gives users access to millions of songs across various genres. It allows effortless discovery of new artists and seamless playback across devices.\n\nWith personalized playlists and recommendations, MusicBox adapts to individual listening habits. Its smooth performance and rich library make it a go-to app for music lovers.",
+        "size": 85,
+        "reviews": 70,
+        "ratingAvg": 4.7,
+        "downloads": 11,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 160
+            },
+            {
+                "name": "2 star",
+                "count": 240
+            },
+            {
+                "name": "3 star",
+                "count": 620
+            },
+            {
+                "name": "4 star",
+                "count": 2100
+            },
+            {
+                "name": "5 star",
+                "count": 4480
+            }
+        ]
+    },
+    {
+        "image": "/demo-app-11.png",
+        "title": "QuickScan",
+        "companyName": "DocuSmart",
+        "id": 11,
+        "description": "QuickScan is a document scanning app that converts physical documents into high-quality, searchable PDFs. It is designed to streamline paperwork and improve document accessibility.\n\nWith smart text recognition and easy file management, QuickScan helps users stay organized and paper-free. It is ideal for professionals, students, and anyone managing digital documents.",
+        "size": 32,
+        "reviews": 80,
+        "ratingAvg": 4.4,
+        "downloads": 7,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 35
+            },
+            {
+                "name": "2 star",
+                "count": 60
+            },
+            {
+                "name": "3 star",
+                "count": 150
+            },
+            {
+                "name": "4 star",
+                "count": 280
+            },
+            {
+                "name": "5 star",
+                "count": 365
+            }
+        ]
+    },
+    {
+        "image": "/demo-app-12.jpg",
+        "title": "ShopWise",
+        "companyName": "RetailX",
+        "id": 12,
+        "description": "ShopWise is a smart shopping assistant that helps users track prices, discover deals, and make informed purchases. It simplifies online and in-store shopping experiences.\n\nBy monitoring price trends and highlighting discounts, ShopWise enables users to save money effortlessly. The app combines convenience and insight, making shopping more efficient and rewarding.",
+        "size": 50,
+        "reviews": 20,
+        "ratingAvg": 4.3,
+        "downloads": 9,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 120
+            },
+            {
+                "name": "2 star",
+                "count": 180
+            },
+            {
+                "name": "3 star",
+                "count": 470
+            },
+            {
+                "name": "4 star",
+                "count": 780
+            },
+            {
+                "name": "5 star",
+                "count": 750
+            }
+        ]
+    }
+]

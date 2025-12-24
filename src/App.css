@@ -11,6 +11,14 @@
 }
 
 @layer base {
+  body {
+    @apply bg-[#F5F5F5];
+  }
+
+  section {
+    @apply py-20;
+  }
+
   h2 {
     @apply text-5xl font-bold text-[#001931];
   }

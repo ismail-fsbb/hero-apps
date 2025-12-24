@@ -7,6 +7,7 @@ import { RouterProvider } from "react-router-dom";
 import AllApps from './pages/AllApps.jsx';
 import Installation from './pages/Installation.jsx';
 import MainLayout from './components/MainLayout.jsx';
+import AppDetails from './pages/AppDetails.jsx';
 
 const router = createBrowserRouter([
   {
@@ -16,10 +17,17 @@ const router = createBrowserRouter([
       {
         path: "/",
         element: <App />,
+        loader: () => fetch("/data.json").then((res) => res.json()),
       },
       {
         path: "/all-apps",
         element: <AllApps />,
+        loader: () => fetch("/data.json").then((res) => res.json()),
+      },
+      {
+        path: "/app-details/:id",
+        element: <AppDetails />,
+        loader: () => fetch("/data.json").then((res) => res.json()),
       },
       {
         path: "/installation",
