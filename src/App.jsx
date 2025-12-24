@@ -1,12 +1,14 @@
 import { useState } from 'react'
 import './App.css'
-
+import Hero from './components/Hero'
+import Counter from './components/counter'
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <h2>Hello</h2>
+      <Hero />
+      <Counter />
     </>
   )
 }
