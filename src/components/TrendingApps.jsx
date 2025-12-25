@@ -1,4 +1,5 @@
 import { Link, useLoaderData } from "react-router";
+import AppCard from "./AppCard";
 
 export default function TrendingApps() {
     const data = useLoaderData();
@@ -19,9 +20,9 @@ export default function TrendingApps() {
                     }
                 </div>
 
-                <a href="/all-apps" className=" text-white font-semibold text-base bg-gradient-to-br from-violet-700 to-purple-500 py-3 px-6 rounded capitalize block mt-8 mx-auto max-w-fit">
+                <Link to="/all-apps" className=" text-white font-semibold text-base bg-gradient-to-br from-violet-700 to-purple-500 py-3 px-6 rounded capitalize block mt-8 mx-auto max-w-fit">
                     show all
-                </a>
+                </Link>
             </div >
         </section >
     );

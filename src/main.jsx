@@ -8,11 +8,13 @@ import AllApps from './pages/AllApps.jsx';
 import Installation from './pages/Installation.jsx';
 import MainLayout from './components/MainLayout.jsx';
 import AppDetails from './pages/AppDetails.jsx';
+import NotFound from './pages/404.jsx';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <MainLayout />,
+    errorElement: <NotFound />,
     children: [
       {
         path: "/",
