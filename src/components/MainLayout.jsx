@@ -1,6 +1,6 @@
 import { Outlet, useNavigation } from "react-router";
 import Navbar from "./Navbar";
-import Footer from "./footer";
+import Footer from "./Footer";
 import { ToastContainer } from 'react-toastify';
 import "react-toastify/dist/ReactToastify.css";
 import Loader from "./Loader";
